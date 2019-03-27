@@ -1,0 +1,2 @@
+include kinesis/__version__.py
+include requirements.txt
